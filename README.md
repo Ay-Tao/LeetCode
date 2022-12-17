@@ -1,2 +1,2 @@
 # LeetCode
-In this repository, I'll record the experience of brushing questions.
+In this repository, I'll record the experience of Leetcode exercise.
